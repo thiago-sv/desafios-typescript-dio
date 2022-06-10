@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "watch": "tsc --watch"
+  }
+}
